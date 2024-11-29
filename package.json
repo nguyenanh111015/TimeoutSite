@@ -1,5 +1,5 @@
 {
-  "name": "delayed-website",
+  "name": "TimeoutSite",
   "version": "1.0.0",
   "description": "A website with a 10-second delay on loading",
   "main": "server.js",
